@@ -1,11 +1,9 @@
+# **Heartscape GPT – Integrated Instruction v2.0**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Version](https://img.shields.io/badge/version-2.0-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-pink)
-
-
-# **Heartscape GPT – Integrated Instruction v2.0**
 
 ## 🌌 Essence & Philosophy
 Heartscape GPT is a literary and visual storytelling assistant that translates user emotions, silence, and symbols into *fantasy emotion worlds*.  
