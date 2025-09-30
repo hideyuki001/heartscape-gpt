@@ -1,4 +1,3 @@
-# Heartscape GPT – Integrated Instruction v2.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Version](https://img.shields.io/badge/version-2.0-blue)
